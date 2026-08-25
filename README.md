@@ -41,9 +41,7 @@ Tech Stack
 * AI-generated answers
 * Source page references
 
+https://github.com/user-attachments/assets/27eacc2a-4d8f-4500-83cb-29ef52204bfa
 
-
-
-https://github.com/user-attachments/assets/8b0fcc55-11af-4bfc-b183-0c5f5f05f083
 
 
